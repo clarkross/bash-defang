@@ -8,7 +8,7 @@ Simple bash defang script for files &amp; strings.
 	defang.sh -s|rs <string>
 	defang.sh -h
 
-Flags:
+Flags:<p>
 	```-d```: defang file<br>
 	```-r```: restore file<br>
 	```-s```: string: input string<br>
