@@ -4,9 +4,9 @@ Simple bash defang script for files &amp; strings.
 # Usage
 > Note: this is a copy of the help output.
 
-	```defang.sh -d|r <filepath>```
-	```defang.sh -s|rs <string>```
-	```defang.sh -h```
+	defang.sh -d|r <filepath>
+	defang.sh -s|rs <string>
+	defang.sh -h
 
 Flags:
 	```-d```: defang file
