@@ -17,11 +17,11 @@ Flags:
 
 # Function
 The following replacements are made:
-* .    [.]
+* . -> [.]
   * defangs IPs / domain suffix.
-* @    [@]
+* @ -> [@]
   * defangs address sign.
-* http hXXp
+* http -> hXXp
   * defangs link.
  
 # Example usage
