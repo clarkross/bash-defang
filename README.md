@@ -9,10 +9,10 @@ Simple bash defang script for files &amp; strings.
 	defang.sh -h
 
 Flags:
-	```-d```: defang file
-	```-r```: restore file
-	```-s```: string: input string
-	```-rs```: restore string
+	```-d```: defang file<br>
+	```-r```: restore file<br>
+	```-s```: string: input string<br>
+	```-rs```: restore string<br>
 	```-h```: help
 
 # Function
