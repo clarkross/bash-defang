@@ -1,5 +1,5 @@
 # defang.sh
-Simple bash defang script for files &amp; strings.
+Simple bash defang script for files &amp; strings. Uses predefined sed input to replace certain characters quickly.
 
 # Usage
 > Note: this is a copy of the help output.
